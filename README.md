@@ -1,18 +1,14 @@
-<h1 align="center">Hi, I'm Omar Mehenni</h1>
-
-###
+<h1 align="center">Hi, I'm Omar Mehenni 🚀</h1>
 
 <h3 align="center">Backend (Java/Spring Boot) & Native Android (Kotlin) Developer</h3>
 
-###
+<p align="center">
+  I am a Multiplatform Developer based in Barcelona, bridging the gap between scalable backend architectures and seamless mobile experiences. Leveraging my previous background as a Reservoir Engineer, I approach software development with strong analytical problem-solving skills and a focus on optimization.
+</p>
 
-<p align="left">I am a Multiplatform Developer based in Barcelona, bridging the gap between scalable backend architectures and seamless mobile experiences. Leveraging my previous background as a Reservoir Engineer, I approach software development with strong analytical problem-solving skills and a focus on optimization.</p>
+---
 
-###
-
-<h4 align="left">Languages & Tools</h4>
-
-###
+### 🛠️ Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -25,14 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -40,15 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-###
+### 📂 Explore My Work
+I am a prolific developer with a diverse range of repositories. Feel free to browse through my projects below!
 
-<h4 align="left">Find me on</h4>
-
-###
+### 🔗 Let's Connect
 
 <div align="left">
-  <a href="www.linkedin.com/in/omar-mehenni" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-mehenni" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
